@@ -1,16 +1,10 @@
 # myapp
 
-A new Flutter project.
+# Mi prompt
 
-## Getting Started
+Lenguaje dart, nivel principiante, en una columna insertar 3 filas, y en cada fila una tarjeta (card),en cada tarjeta (una imágen desde la red colocada a la izquierda, a la derecha una columna con 2 filas y en la primera fila un título, en la segunda fila un subtitulo, los textos alineados a la izquierda), la tarjeta con sombreado, utilizar colores atractivos, crear la clase producto, con los atributos (título, subtitulo y img_url)crear una lista de diccionarios por cada tarjeta. Proporciona el código correspondiente en un solo archivo.
 
-This project is a starting point for a Flutter application.
+## Mi diseño
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](image.png)
